@@ -2,3 +2,7 @@
 /project/target/
 /target/
 /target/scala-2.12/classes/
+/data/df_output_csv/
+/data/df_output_json/
+/.bsp/
+/.idea/
